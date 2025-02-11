@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on something cool!
+
 🌱 I’m currently learning DSA, a lil frontend & backend
+
 💬 Ask me about: Python
+
 ⚡ Fun fact: Love watching anime!
